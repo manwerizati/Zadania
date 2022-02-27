@@ -1,0 +1,10 @@
+STRONA RWD
+
+
+Responsywna strona internetowa to w wielkim skrócie
+strona która dostosowuje się graficznie do wielkości
+ekranu urządzenia na którym jest wyświetlana. Zwiększa
+to przejrzystość jak i wygode podczas korzystania ze 
+strony. Mówi się też że gdy strona jest responsywna
+poprawia to jej widoczność (pozycjonowanie) podczas 
+gdy użytkownik szuka czegoś na dany temat.
