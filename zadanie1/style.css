@@ -1,0 +1,33 @@
+#header {
+    float: right;
+    position: relative;
+    left: -38%;
+}
+
+#header {
+    display: inline;
+}
+
+#header {
+    text-decoration: none;
+}
+
+#menu {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#kontakt {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#omnie {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#portfolio {
+    text-align: left;
+    position: relative; top: 170px
+}
