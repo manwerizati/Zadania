@@ -1,0 +1,40 @@
+#header {
+    float: right;
+    position: relative;
+    left: -38%;
+}
+
+#zakladki {
+    text-align: center;
+    display: flex;
+    align-content: center;
+}
+
+#zakladki ul li{
+    display:inline-block;
+}
+
+#zakladki a{
+    text-decoration: none;
+    color: black;
+}
+
+#menu {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#kontakt {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#omnie {
+    text-align: left;
+    position: relative; top: 170px
+}
+
+#portfolio {
+    text-align: left;
+    position: relative; top: 170px
+}
