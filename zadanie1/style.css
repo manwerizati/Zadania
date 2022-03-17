@@ -1,0 +1,69 @@
+/*header*/
+
+#header{
+    position: relative;
+    float: right;
+}
+
+#logo{
+    position: relative; top: -20px;
+    float: left;
+}
+
+#zakladki{
+    text-align: center;
+    display: flex;
+    align-content: center;
+}
+
+#zakladki ul li{
+    position: relative; top: -20px;
+}
+
+#zakladki ul li{
+    display: inline-block;
+}
+
+#zakladki a{
+    text-decoration: none;
+    color: black;
+}
+
+#zakladki a{
+    font-family: 'Fredoka', sans-serif;
+}
+
+#wypelniacz{
+    color: white;
+}
+
+/*main*/
+
+#main{
+    position: relative; top: 180px;
+}
+
+#omnie{
+    position: relative; left: -15px;
+    float: right;
+    text-align: center;
+}
+
+
+#omnie h2{
+    font-family: 'Fredoka', sans-serif;
+}
+
+/*footer*/
+
+footer{
+    position: relative;
+}
+
+#author a{
+    position: relative; top: 710px; left: -90px;
+}
+
+#author a{
+    font-family: 'Fredoka', sans-serif;
+}
